@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JerryDev06
-- 👀 I’m interested in programming, particularly in Python and C++.
+- 👀 I’m interested in programming, particularly in Python and Java.
 - 🌱 I’m currently learning about software development and algorithms.
 - 💞️ I’m looking to collaborate on coding projects and open-source contributions.
 - 📫 How to reach me: You can connect with me at chrisjerry.r06@gmail.com .
